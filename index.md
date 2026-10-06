@@ -9,5 +9,5 @@ Config: [CLAUDE.md](claude/CLAUDE.md), [skills](claude/skills), [agents](claude/
 | Project | Files | Last modified | Slug |
 |---|---|---|---|
 | [(unresolved) HOME-git-blog](claude/memory/HOME-git-blog) | 2 | 2026-10-15 | `HOME-git-blog` |
-| [~/git/webapp](claude/memory/HOME-git-webapp) | 3 | 2026-10-15 | `HOME-git-webapp` |
+| [~/git/webapp](claude/memory/HOME-git-webapp) | 4 | 2026-10-15 | `HOME-git-webapp` |
 
